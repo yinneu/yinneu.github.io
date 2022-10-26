@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=blinking&section=header&text=Yerim's%20GitHub%&ustomColorList=0,2,2,5,30)
 <!--Copyright © 2020 Ye-Chan Kang-->
 
-<h2> :wave:소개 </h2>
+<h2> &#128075;소개 </h2>
 
 <i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다.</i>
 
@@ -23,13 +23,13 @@
 - CSS
 - JavaScript
 ---
-<h2> :mortar_board:학력</h2>
+<h2> &#9999;학력</h2>
 
 유봉여자고등학교 졸업 (2017.03 ~ 2020.02) </br>
 한림대학교 재학중 (2020.03 ~ )
 
 ---
-<h2>  :running:활동 </h2>
+<h2>  &#127939;활동 </h2>
 
  <h4>한림대학교 CAERANG 학술 동아리 </h4>
 
@@ -42,7 +42,7 @@
 - ICPC 한국대학생 프로그래밍 대회 예선 참가
 
 ---
-<h2> :computer:프로젝트 </h2>
+<h2> &#128435;프로젝트 </h2>
 
 - 랜덤 맛집 추천 웹사이트 (진행중)
   - AWS, Node.js, Mysql, html, css, javascript
@@ -56,7 +56,7 @@
 - 바닐라JS로 포트폴리오 웹사이트 클론 코딩
 
 ---
-<h2>  :pushpin:앞으로의 활동 계획 </h2>
+<h2>  &#128204;앞으로의 활동 계획 </h2>
 
 - 2022 씨애랑 전시회 참가
 - 랜덤 맛집 추천 웹사이트 제작 및 배포 (진행중)
