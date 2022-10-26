@@ -54,6 +54,7 @@
   - 사용한 라이브러리 및 플랫폼 : Selenium, Teachable Machine
 
 - 바닐라JS로 포트폴리오 웹사이트 클론 코딩
+
 ---
 <h2>  :pushpin:앞으로의 활동 계획 </h2>
 
