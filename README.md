@@ -22,6 +22,7 @@
 - HTML
 - CSS
 - JavaScript
+
 ---
 <h2> &#9999;학력</h2>
 
