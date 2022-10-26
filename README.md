@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=blinking&section=header&text=Yerim's%20GitHub%&ustomColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&fontAlignY=50&fontSize=30&animation=blinking&section=header&text=About%20Me%&ustomColorList=0,2,2,5,30)
 <!--Copyright © 2020 Ye-Chan Kang-->
 
-<h2> &#128075;소개 </h2>
+<h1> &#128075;소개 </h1>
 
 <i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다.</i>
 
@@ -13,15 +13,16 @@
 
 ---
 
-<h2> &#128295;사용 언어 및 툴 </h2>
+<h2> &#128295;사용 가능 언어 및 툴 </h2>
 
 - Java
 - C
 - Python
 - R
-- HTML
-- CSS
-- JavaScript
+- Fornt-End
+  - HTML, CSS, JAVASCRIPT
+- Back-End
+  - Mysql, Node.js, AWS
 
 ---
 <h2> &#9999;학력</h2>
