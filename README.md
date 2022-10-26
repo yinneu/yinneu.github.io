@@ -3,6 +3,10 @@
 
 <h1> &#128075;소개 </h1>
 
+<img src="https://user-images.githubusercontent.com/99879845/198141300-82f1b0d6-d1ff-4ee6-a579-fb197760db73.png" width="320" height="300">
+
+
+
 <i>프론트엔드부터 시작하여 백엔드까지 웹 개발을 공부하고 있습니다.</i>
 
 - 이름 : 연예림
@@ -47,6 +51,9 @@
 <h2> &#128435;프로젝트 </h2>
 
 - 랜덤 맛집 추천 웹사이트 (진행중)
+
+  <img src="https://user-images.githubusercontent.com/99879845/198138895-3fabcd5b-b342-4c34-836e-a9183a621c08.png" width="500" height="300">
+  
   - AWS, Node.js, Mysql, html, css, javascript
   - 기간 : 2022.09 ~
   - 마우스 휠을 돌렸을 때 카드가 rotate하고 랜덤으로 맛집을 추천한다.
